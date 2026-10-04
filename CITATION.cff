@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Caputo fractional-order stochastic SEIR model for measles
+message: If you use this software, please cite the accompanying paper.
+type: software
+authors:
+  - family-names: Khalid
+    given-names: Thwiba A.
+    affiliation: Al-Baha University
+license: MIT
